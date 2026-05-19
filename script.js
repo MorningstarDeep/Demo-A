@@ -2,6 +2,10 @@
    SMILECARE DENTAL — JavaScript
    ============================================= */
 
+// ---- VERCEL ANALYTICS ----
+import { inject } from '@vercel/analytics';
+inject();
+
 document.addEventListener('DOMContentLoaded', () => {
 
   // ---- NAV SCROLL ----
