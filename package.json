@@ -1,0 +1,24 @@
+{
+  "name": "smilecare-dental",
+  "version": "1.0.0",
+  "description": "SmileCare Dental - Modern Family Dentistry in Rajkot",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "dental",
+    "healthcare",
+    "rajkot"
+  ],
+  "author": "SmileCare Dental",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  },
+  "devDependencies": {
+    "vite": "^8.0.13"
+  }
+}
